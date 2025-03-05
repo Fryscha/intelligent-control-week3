@@ -1,0 +1,8 @@
+Nama		 	:  	Fryscha Febryanti Puspitasari
+NIM 	 		:  	224308008
+Kelas 	 		:  	TKA 6A
+Akun Github (Tautan) 	:  	https://github.com/Fryscha
+Student Lab Assistant 	:  	Yulia Brilianty
+
+Percobaan yang dilakukan yaitu pembuatan program untuk mengklasifikasi objek atau gambar yang terdeteksi di kamera. Metode preprocessing data menggunakan model CNN. CNN merupakan salah satu jenis jaringan saraf tiruan yang banyak digunakan dalam pemrosesan gambar. Setelah itu, melakukan training model CNN yaitu membuat dan melatih model CNN untuk klasifikasi objek. Langkah selanjutnya yakni mengintegrasi dengan OpenCV untuk memprediksi real-time dan Night Vision dengan menggunakan kamera untuk mendeteksi objek berdasarkan model CNN yang telah dibuat dengan tambahan fitur Night Vision.
+Hasil percobaan yang telah dilakukan adalah objek dapat terdeteksi menggunakan model CNN. Pencahayaan sangat berpengaruh dalam hasil percobaan ini. Dengan adanya Night Vision, objek dapat terdeteksi walaupun berada pada pencahayaan yang kurang.
